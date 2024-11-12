@@ -9,7 +9,7 @@ Welcome to my repository! This is a collection of projects developed as part of 
 - [Projects](#projects)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [License](#license)
+- [Running a Project](#Running a Project)
 - [Acknowledgments](#acknowledgments)
   
 ## About the Project
@@ -39,5 +39,16 @@ Below is a list of key projects included in this repository:
 To clone and explore this repository:
 
 ```bash
-git clone https://github.com/SeuUsuario/pet-godot-jogos.git
+git clone https://github.com/Leloana/Game_Develop.git
 cd pet-godot-jogos
+```
+Running a Project
+1. Install Godot: Download Godot.
+2. Open Godot and select "Import Project".
+3. Navigate to the project folder you want to explore.
+4. Click Play (F5) to run the game.
+
+🤝 Acknowledgments
+This repository is a result of collaborative efforts within the PET Computação e Design project. Special thanks to my professors, colleagues, and the Godot open-source community for their support and resources.
+
+Thank you for checking out this repository! We hope these projects inspire you to dive into the world of game development with Godot. Happy coding! 🎮🚀
