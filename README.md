@@ -9,7 +9,7 @@ Welcome to my repository! This is a collection of projects developed as part of 
 - [Projects](#projects)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Running a Project](#Running a Project)
+- [Running a Project](#Running-a-Project)
 - [Acknowledgments](#acknowledgments)
   
 ## About the Project
@@ -27,7 +27,7 @@ Below is a list of key projects included in this repository:
    - Basic mechanics such as character movement, collision detection, basic of UI and enemy AI, but in 3D.
 
 
-## 🛠 Technologies
+## Technologies
 
 - **Languages**: GDScript
 - **Engine**: Godot (version 4.0+)
