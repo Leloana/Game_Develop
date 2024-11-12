@@ -1,5 +1,5 @@
 # 🎮 PET Project – Game Development Course with Godot
-![Godot Logo](images/godot-logo.jpg)
+![Godot Logo](images/godot-logo.svg)
 
 Welcome to my repository! This is a collection of projects developed as part of the **PET (Programa de Educação Tutorial) Computação e Design** initiative at my university. The focus of this project is to create an **introductory course on game development using the Godot Engine**, targeting students interested in learning game development from scratch.
 
