@@ -5,18 +5,18 @@ Welcome to my repository! This is a collection of projects developed as part of 
 
 ## 📚 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Projects](#projects)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
+- [📚 About the Project](#about-the-project)
+- [🎮 Projects](#projects)
+- [🛠 Technologies](#technologies)
+- [🚀 Getting Started](#getting-started)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
   
-## About the Project
+## 📚 About the Project
 
 This repository is part of the **PET Computação e Design** initiative aimed at creating educational content to teach game development using the **Godot Engine**. Here, you'll find a variety of game projects, tutorials, and prototypes developed as part of the course preparation. The goal is to provide a hands-on learning experience for students interested in game design and programming.
 
-## Projects
+## 🎮 Projects
 
 Below is a list of key projects included in this repository:
 
