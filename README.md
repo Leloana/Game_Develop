@@ -39,7 +39,7 @@ Below is a list of key projects included in this repository:
 To clone and explore this repository:
 
 ```bash
-git clone https://github.com/Leloana/Game_Develop.git
+git clone https://github.com/Leloana/pet-godot-jogos.git
 cd pet-godot-jogos
 ```
 
