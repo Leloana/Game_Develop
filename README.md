@@ -51,5 +51,5 @@ cd PET-CURSO-GODOT
 
 ## Acknowledgments
 This repository is a result of collaborative efforts within the PET Computação e Design project. Special thanks to my professors, colleagues, and the Godot open-source community for their support and resources.
-
 Thank you for checking out this repository! We hope these projects inspire you to dive into the world of game development with Godot. Happy coding! 🎮🚀
+![UEL Logo](images/logo-uel-grande.jpg)
